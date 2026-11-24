@@ -3,7 +3,7 @@ title: "Musik und Glaube"
 date: 2026-11-23
 slug: music-and-faith
 draft: false
-shareImage: /images/music-faith/sonreal.jpg
+shareImage: /images/music-faith/lunasimao.jpg
 ---
 
 Ich verbringe viel Zeit damit, Musikerinnen und Musikern auf Instagram zuzuhören. Hier sind einige, die ich in letzter Zeit gehört habe.
@@ -14,70 +14,68 @@ Paulus hat in Athen etwas Ähnliches gemacht. Er hat ihre Dichtung und ihre Spra
 
 Sie singen nicht alle Anbetungslieder. Die meisten singen einfach über das Leben, und der Glaube ist ein Teil davon. Das gefällt mir an ihnen. Tipp auf eine Karte, um das Lied auf Instagram anzusehen.
 
-Ich habe auch ein Reaktionsvideo zu SonReals neuem Lied gemacht. Du kannst es hier ansehen:
-
-[Meine Reaktion auf SonReals neues Video](https://www.youtube.com/shorts/wePjZMr6beE)
+Diese Lieder sind auf Deutsch. Hier sind Musikerinnen und Musiker, die auf Deutsch singen — manche Lobpreislieder, andere Lieder über das Leben, und der Glaube ist ein Teil davon.
 
 <div class="ig-grid">
-<a class="ig-card" href="https://www.instagram.com/reel/DgBgmKwB84s/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/sonreal.jpg" alt="SonReal" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">SonReal</span>
-<span class="ig-card__note">Ein lustiger, hoffnungsvoller Rap darüber, gute Musik zu erkennen, wenn man sie hört. Beurteile ein Buch nicht nach seinem Einband.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/Dfw8TevRaPf/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/lunasimao.jpg" alt="Luna Simão" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Luna Simão</span>
+<span class="ig-card__note">Christliche Popmusik auf Deutsch — Musik für dein Herz.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgDnpYFAUjr/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/tamzene.jpg" alt="Tamzene" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Tamzene</span>
-<span class="ig-card__note">"Ich halte dir einen Platz frei." Ein sanftes Lied, und ein freier Stuhl.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DgB0VM6ojxS/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/selinaaepp.jpg" alt="Selina Epp" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Selina Epp</span>
+<span class="ig-card__note">Singt auf Deutsch von Ermutigung, Familie und Jesus.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df5X6L3K-3W/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/lilyfittsmusic.jpg" alt="Lily Fitts" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Lily Fitts</span>
-<span class="ig-card__note">Ihr Lied "Notice" ist endlich da, mehr als ein Jahr nachdem sie es zum ersten Mal gespielt hat.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DfHtmvNu-Cn/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/arnekopfermann.jpg" alt="Arne Kopfermann" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Arne Kopfermann</span>
+<span class="ig-card__note">Schreibt auf Deutsch über Glauben, Hoffnung und das Leben.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgE-ybeI6ko/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/fatheringstarlings.jpg" alt="Fathering Starlings" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Fathering Starlings</span>
-<span class="ig-card__note">"Your Heart in the Fire" — Lo-Fi-Folk aus dem Norden, ehrlich, verwittert, roh.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DbIyXlglH0l/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/veronikalohmer.jpg" alt="Veronika Lohmer" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Veronika Lohmer</span>
+<span class="ig-card__note">Ein Leben der Anbetung — Lobpreislieder auf Deutsch.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DfkSMZhpium/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/naterosemusic.jpg" alt="Nate Rose" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Nate Rose</span>
-<span class="ig-card__note">Letztes Jahr hat er sein Leben Gott gegeben. Jetzt will er seine Geschichte erzählen und ihn dabei loben.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/Df4_FdmOa5Z/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/deborahrosenkranz.jpg" alt="Déborah Rosenkranz" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Déborah Rosenkranz</span>
+<span class="ig-card__note">Sängerin und Autorin — Lieder und Worte der Ermutigung auf Deutsch.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/p/DgBMyeNkkyO/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/ostonmusic.jpg" alt="OSTON" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">OSTON</span>
-<span class="ig-card__note">Sein neues Lied "Not Alone", und ein Raum in San Francisco, der jedes Wort mitsingt.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DeaP8hzvxpH/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/darya_music.jpg" alt="Darya" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Darya</span>
+<span class="ig-card__note">Lobpreisleiterin — Anbetungslieder auf Deutsch.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df1qtokoyBh/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/kenta_dedachi.jpg" alt="Kenta Dedachi" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Kenta Dedachi</span>
-<span class="ig-card__note">"Secret Fort" — Kindheitstage hinter der Kirche, Abendglocken, beste Freunde und erfundene Welten.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DTkGhqhDe8d/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/favoramara.jpg" alt="Favor Amara" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Favor Amara</span>
+<span class="ig-card__note">Jesus zuerst — Lobpreis auf Deutsch.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DfCRnSiPXa5/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/jeffarrandale.jpg" alt="Jeff Arrandale" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Jeff Arrandale</span>
-<span class="ig-card__note">Ein neues Lied aus Lukas 15, vom verlorenen Sohn. "Let Me Go".</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DePyhj4RY3E/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/lucasloumusic.jpg" alt="Lucas Lou" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Lucas Lou</span>
+<span class="ig-card__note">Hoffnung, Glaube, Liebe — und Musik auf Deutsch.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df71X0lzZsN/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/allison_eide.jpg" alt="Allison Eide" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Allison Eide</span>
-<span class="ig-card__note">"Jesus ist gut. Die Tour ist ein Geschenk." Ihre Lieder, zu Hause gespielt.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/Dei8lJszv-A/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/jurifriesen.jpg" alt="Juri Friesen" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Juri Friesen</span>
+<span class="ig-card__note">Lobpreis auf Deutsch, mit seiner Band und seiner Gemeinde.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgD31mXBDcn/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/rachelpurcellmusic.jpg" alt="Rachel Purcell" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Rachel Purcell</span>
-<span class="ig-card__note">Ihr Lied "keep going" — verträumte Retro-Jesusmusik, jetzt draußen.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DTL4oNLDXG6/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/palafriesen.jpg" alt="Pala Friesen" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Pala Friesen</span>
+<span class="ig-card__note">Singt auf Deutsch: weil du Jesus bist.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df9vziqCJtC/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/haleyjonesofficial.jpg" alt="Haley Jones" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Haley Jones</span>
-<span class="ig-card__note">"Jeder kennt jemanden, der von Jesus hören muss."</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DeJdSQDkcMx/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/chrislass.jpg" alt="Chris Lass" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Chris Lass</span>
+<span class="ig-card__note">Deutsch-britischer Gospel-Künstler — Musik, die alle zum Singen bringt.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgAmATaizM0/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/gracegrabermusic.jpg" alt="Grace Graber" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Grace Graber</span>
-<span class="ig-card__note">Lieder über ihren Weg mit ihrer psychischen Gesundheit. Und sie sind auch Pop-Punk.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DRZ1XB3DZT5/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/clemensbittlinger.jpg" alt="Clemens Bittlinger" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Clemens Bittlinger</span>
+<span class="ig-card__note">Liedermacher und Pfarrer — Lieder vom Glauben auf Deutsch.</span></span>
 </a>
 </div>
 

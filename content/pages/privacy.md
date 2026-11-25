@@ -6,7 +6,7 @@ original_url: https://jonathanmccallum.com/privacy/
 
 # Datenschutz
 
-Diese Seite wird von Jonathan McCallum betrieben, der in Getaria in Spanien lebt. Es ist eine kleine persönliche Seite: Texte und ein Chat, der aus diesen Texten antwortet. Es gibt hier keine Konten, kein Tracking, keine Werbung und nichts zu kaufen. Sie folgt dem europäischen Datenschutzrecht (DSGVO) für alle Besucher, wo auf der Welt sie auch sind.
+Diese Seite wird von Jonathan McCallum betrieben, der im Baskenland lebt. Es ist eine kleine persönliche Seite: Texte und ein Chat, der aus diesen Texten antwortet. Es gibt hier keine Konten, kein Tracking, keine Werbung und nichts zu kaufen. Sie folgt dem europäischen Datenschutzrecht (DSGVO) für alle Besucher, wo auf der Welt sie auch sind.
 
 Wenn du Fragen zu dieser Seite hast oder zu deinen persönlichen Daten, schreib Jonathan an <a href="#" data-contact-email data-contact-email-text>Schreib mir eine E-Mail</a>. Du kannst ihm auch auf [Instagram](https://www.instagram.com/jonamccallum) oder [Threads](https://www.threads.com/@jonamccallum) eine Nachricht schicken.
 
